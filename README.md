@@ -1,6 +1,7 @@
 # Netflix
 
 Clone netflix em HTML e CSS
+
 Não está responsivo, considerar 1920x1080 24 Pol
 
 # [Run here](https://netflix.rodrigocosta34.repl.co/)
